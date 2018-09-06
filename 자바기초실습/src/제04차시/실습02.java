@@ -1,6 +1,6 @@
-package Á¦04Â÷½Ã;
+package ì œ04ì°¨ì‹œ;
 import java.io.*;
-public class ½Ç½À02 {
+public class ì‹¤ìŠµ02.java {
 	public static void main(String[] args) {
 		int bt;
 		try {
