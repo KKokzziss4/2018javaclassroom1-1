@@ -1,12 +1,12 @@
-package Á¦04Â÷½Ã;
+package ÃÂ¦04Ã‚Ã·Â½Ãƒ;
 
 import java.io.*;
-	public class ½Ç½À01 {
+	public class Â½Ã‡Â½Ã€01 {
 		
 	
 		public static void main(String[] args) {
 			int bt;
-			try {
+			try  {
 				bt= System.in.read();
 				 System.out.print((char)bt);
 				
