@@ -1,6 +1,6 @@
-package Á¦03Â÷½Ã;
+package ì œ03ì°¨ì‹œ;
 
-public class ½Ç½À03 {
+public class ì‹¤ìŠµ03 {
 	public static void main(String[] args) {
 		int a=0, b=0;
 		a++; b++; 
@@ -14,10 +14,10 @@ public class ½Ç½À03 {
 		e=c%d;
 		System.out.println(e);
 
-		String f1="Åë½Å°ú";
-		String f2="Åë½Å°ú";
-		String g1=new String("Åë½Å°ú");
-		String g2=new String("Åë½Å°ú");
+		String f1="í†µì‹ ê³¼";
+		String f2="í†µì‹ ê³¼";
+		String g1=new String("í†µì‹ ê³¼");
+		String g2=new String("í†µì‹ ê³¼");
 		System.out.println((f1==f2) + "," + (g1==g2));
 		System.out.println(f1.equals(f2) + "," + g1.equals(g2));
 		System.out.println(System.identityHashCode(f1) + "," + System.identityHashCode(f2) + 
@@ -36,14 +36,13 @@ public class ½Ç½À03 {
 
 		
 		a=2; b=3;
-		System.out.println("Å« °ª: \n" + (a>b?a:b));
+		System.out.println("í° ê°’: \n" + (a>b?a:b));
 
 		int o, p, q; 
 		o=2; p=10; q=15;
-		System.out.println("ÃÖ´ë°ª: " + (o>p&&o>q?o:(p>o&&o>q?p:q)));
+		System.out.println("ìµœëŒ€ê°’: " + (o>p&&o>q?o:(p>o&&o>q?p:q)));
 
 	}
-
 
 
 }
