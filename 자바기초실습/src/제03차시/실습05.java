@@ -1,6 +1,6 @@
-package Á¦03Â÷½Ã;
+package ì œ03ì°¨ì‹œ;
 
-public class ½Ç½À05 {
+public class ì‹¤ìŠµ05 {
 	
 		public static void main(String[] args) 
 		{
@@ -13,16 +13,16 @@ public class ½Ç½À05 {
 			a[3]=23;
 			a[4]=35;
 			
-		    int b[][]={
+		    	int b[][]={
 	       				{1, 2, 3}, 
-							{4, 5, 6},
-							{7, 8, 9},
-	              		{10,11,12}
+					{4, 5, 6},
+					{7, 8, 9},
+	              		   	{10,11,12}
 	              	};
 
-			System.out.println("¹è¿­ a[]ÀÇ Å©±â: " +a.length);
-			System.out.println("¹è¿­ b[][]ÀÇ Å©±â: " + b.length);
-			System.out.println("¹è¿­ b[1]ÀÇ Å©±â: " + b[1].length);
+			System.out.println("ë°°ì—´ a[]ì˜ í¬ê¸°: " +a.length);
+			System.out.println("ë°°ì—´ b[][]ì˜ í¬ê¸°: " + b.length);
+			System.out.println("ë°°ì—´ b[1]ì˜ í¬ê¸°: " + b[1].length);
 		}
 	}
 
